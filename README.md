@@ -1,4 +1,4 @@
-# DrawingPad - V1.0
+# EasyPainting - V1.0
 
 This is a simple painting app that enables you to draw in color on your screen and save the drawing to your camera roll which can subsequently be texted or emailed. Additional  settings let you choose brush size, opacity, and Red, Green, & Blue color configuration. Enjoy.
 
